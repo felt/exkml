@@ -39,7 +39,7 @@ defmodule Exkml.Mixfile do
     [
       {:ex_doc, ">= 0.0.0", only: :dev},
       {:gen_stage, "~> 0.8.0"},
-      {:saxy, "~> 0.9.1"}
+      {:saxy, "~> 1.4.0"}
     ]
   end
 end
